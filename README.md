@@ -13,8 +13,8 @@ No back-end, minhas habilidades incluem o uso de NodeJS e Express. Além disso, 
 - **LinkedIn**: [https://www.linkedin.com/in/rayane-melo-castilhos/](https://www.linkedin.com/in/rayane-melo-castilhos/)
 - **Email**: [raymeloc@gmail.com](mailto:raymeloc@gmail.com)
 <br/>
---- 
-<br/>
+
+#
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayanemelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanemelo&layout=compact&langs_count=7&theme=dark"/>
